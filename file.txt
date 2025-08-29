@@ -1,3 +1,5 @@
 some content that has been changed
 
 this some new stuff
+
+this is the new feature
